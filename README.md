@@ -12,11 +12,3 @@ O **HDC HOST** é uma landing page desenvolvida com foco em design limpo, conte�
 - **CSS3** – Estilização e responsividade  
 - **Flexbox** – Para organização dos elementos  
 
-## 📸 Prévia do Projeto
-
-> Adicione aqui uma imagem ou print do site quando desejar.  
-> Exemplo:  
-> ![HDC Host Preview](./imagem/preview.png)
-
-## 📁 Estrutura de Pastas
-
